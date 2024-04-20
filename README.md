@@ -14,7 +14,7 @@ The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com
 1. **Clone the Repository**: Clone this repository to your local machine.
 
     ```bash
-    git clone https://github.com/your-username/book-recommendation-web-app.git
+    git clone https://github.com/muhwira27/book-recommendation-web-app.git
     ```
 
 2. **Install Dependencies**: Navigate to the project directory and install the required dependencies.
